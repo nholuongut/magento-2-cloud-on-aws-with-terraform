@@ -631,7 +631,6 @@ Terragrunt 31.5 release: Added support for fetching modules from any Terraform R
 * [Email Address](luongutnho@hotmail.com)
 
 ![](https://i.imgur.com/waxVImv.png)
-![](Donate.png)
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nholuong)
 
 # License
